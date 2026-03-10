@@ -3,7 +3,7 @@ import { createContext } from 'react'
 export const authDataContext= createContext()
 function AuthContext({children}) {
     // read from Vite env var when deployed; fallback to the deployed backend
-    let serverUrl = "http://localhost:8000"
+    let serverUrl = "https://onecart-backend-09yz.onrender.com"
 
     let value = {
        serverUrl
