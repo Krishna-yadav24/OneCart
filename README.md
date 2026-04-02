@@ -106,12 +106,12 @@
 
 ## 📸 Screenshots
 ### 🔐 Login Page
-https://github.com/Krishna-yadav24/OneCart/blob/9630a5899d6941d29fdc0f041dba481f11b4f51b/Screenshot%202026-04-03%20040324.png
+![image](https://github.com/Krishna-yadav24/OneCart/blob/9630a5899d6941d29fdc0f041dba481f11b4f51b/Screenshot%202026-04-03%20040324.png)
 ### 🏠 Home Page
-[Screenshot 2026-04-03 040208.png](https://github.com/Krishna-yadav24/OneCart/blob/9630a5899d6941d29fdc0f041dba481f11b4f51b/Screenshot%202026-04-03%20035834.png)
-[Screenshot 2026-04-03 035911.png](https://github.com/Krishna-yadav24/OneCart/blob/9630a5899d6941d29fdc0f041dba481f11b4f51b/Screenshot%202026-04-03%20035911.png)
+![Screenshot 2026-04-03 035834.png](https://github.com/Krishna-yadav24/OneCart/blob/9630a5899d6941d29fdc0f041dba481f11b4f51b/Screenshot%202026-04-03%20035834.png)
+![image](https://github.com/Krishna-yadav24/OneCart/blob/9630a5899d6941d29fdc0f041dba481f11b4f51b/Screenshot%202026-04-03%20035911.png)
 ### 🛒 Cart Page
-[Screenshot 2026-04-03 040324.png](https://github.com/Krishna-yadav24/OneCart/blob/9630a5899d6941d29fdc0f041dba481f11b4f51b/Screenshot%202026-04-03%20040208.png)
+![Screenshot 2026-04-03 040324.png](https://github.com/Krishna-yadav24/OneCart/blob/9630a5899d6941d29fdc0f041dba481f11b4f51b/Screenshot%202026-04-03%20040208.png)
 
 
 
