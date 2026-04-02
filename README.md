@@ -105,15 +105,13 @@
 ---
 
 ## 📸 Screenshots
-
-### 🏠 Home Page
-
-
 ### 🔐 Login Page
-
-
+Screenshot 2026-04-03 040208.png
+### 🏠 Home Page
+Screenshot 2026-04-03 035834.png
+Screenshot 2026-04-03 035911.png
 ### 🛒 Cart Page
-
+Screenshot 2026-04-03 040324.png
 
 
 
